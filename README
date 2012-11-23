@@ -1,0 +1,3 @@
+This is the releases repo for javaAppletLiveConnect.
+
+This contains the plugin.jar shipped in the standard JRE/JDK which contains the netscape.javascript.JSObject and related classes that applets build against to get "LiveConnect" javascript interoperability.
